@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:1a1a4e,100:4f46e5&height=200&section=header&text=Angel%20Gonzales&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20%26%20Data%20Analyst%20%7C%20Peru%20%F0%9F%87%B5%F0%9F%87%AA&descAlignY=58&descSize=16" width="100%" alt="header"/>
+  <img src="https://www.magnific.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_4102879.htm#fromView=keyword&page=1&position=0&uuid=bf008e2f-b349-442b-ba2b-6af42c823775&query=Web+dev+background" width="100%" alt="header"/>
 </div>
 
 <div align="center">
